@@ -26,3 +26,5 @@
 ## 11. Basic data type Golang - Integer - Khmer HKimhab
 
 - https://bit.ly/3NI9YCK
+
+- Hello. This is testing from HKimhab
