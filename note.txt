@@ -1,0 +1,16 @@
+Install exntesion for golang on new pc - mac
+
+This is recommend extension on vscode new mac 
+      "esbenp.prettier-vscode",
+        "766b.go-outliner",
+        "golang.go",
+        "ionutvmi.path-autocomplete",
+        "christian-kohler.path-intellisense"
+
+Thank you. Bye. 
+
+-- Install go on mac is Done. Thank you. 
+
+-- Declare valriable multi 
+More: https://www.w3schools.com/go/go_variable_multi.php
+Thank you and bye. 

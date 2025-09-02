@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "766b.go-outliner",
+        "golang.go",
+        "ionutvmi.path-autocomplete",
+        "christian-kohler.path-intellisense"
+    ]
+}
