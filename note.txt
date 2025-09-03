@@ -14,3 +14,17 @@ Thank you. Bye.
 -- Declare valriable multi 
 More: https://www.w3schools.com/go/go_variable_multi.php
 Thank you and bye. 
+
+- 12. Learn Data type float 
+URL: https://www.w3schools.com/go/go_float_data_type.php
+The float data types are used to store positive and negative numbers with a decimal point, like 35.3, -2.34, or 3597.34987.
+
+The float data type has two keywords:
+
+Type	Size	Range
+float32	32 bits	-3.4e+38 to 3.4e+38.
+float64	64 bits	-1.7e+308 to +1.7e+308.
+
+--- Time to practise code 
+practise Exercise 1 to 3, If have question drop comment on below video or telegram.
+Thank you. 
