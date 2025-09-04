@@ -28,3 +28,7 @@ float64	64 bits	-1.7e+308 to +1.7e+308.
 --- Time to practise code 
 practise Exercise 1 to 3, If have question drop comment on below video or telegram.
 Thank you. 
+
+Go array 
+- practise with interface 
+- Next video learn Access Array 
