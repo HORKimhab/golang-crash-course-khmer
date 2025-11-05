@@ -2,6 +2,20 @@
 
 ## Golang from W3School
 
+## ⚙️ How to Run the Code
+
+Make sure you have [Go](https://go.dev/dl/) installed.
+
+Then open your terminal and run:
+
+```bash
+# Run all files in the current folder
+go run .
+
+# Or run specific files
+go run main1.go main2.go
+```
+
 ## 07 Output golang
 
 - https://pkg.go.dev/fmt#Print
